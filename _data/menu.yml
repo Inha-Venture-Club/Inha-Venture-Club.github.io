@@ -1,0 +1,11 @@
+- id: about
+  label: 소개
+
+- id: posts
+  label: 게시물
+
+- id: life
+  label: 소소한 이야기
+
+- id: recruit
+  label: 신입부원 모집

@@ -1,0 +1,13 @@
+- index : 01
+  label: 지원서 제출
+  description : 구글폼의 각 문항에 대해 응답하여 제출합니다.
+
+- index : 02
+  label: 면접
+  description : 지원서 기반으로 면접을 진행합니다.
+  detail:
+    - 면접 일정은 개별 문자로 안내드립니다.
+
+- index : 03
+  label: 최종합격
+  description : 면접 결과를 개별 문자로 안내합니다.
