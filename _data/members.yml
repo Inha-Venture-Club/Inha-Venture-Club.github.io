@@ -1,0 +1,17 @@
+﻿# [[ 작성방법 ]]
+# 순서는 편하신대로 작성하시면 자동으로 id순으로 정렬됩니다.
+
+## id: @졸멩이에게 문의하여 ID 발급받기
+## name: 닉네임
+## emoji: 이모지
+## comment: 한줄소개
+
+- id: 246447
+  name: 졸멩이
+  emoji: 🗿
+  comment: 인하벤처클럽 기술팀의 발전을 위하여!
+  links:
+    - title: GitHub
+      url: "https://github.com/dazory"
+    - title: Blog
+      url: "https://dazory.github.io/"
