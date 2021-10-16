@@ -1,17 +1,17 @@
-- writer: 246447
+- writer: 226447
   date: 2021-10-07 01:51
   message: 인하벤처클럽 소개 영상입니다.
   media:
     - type: video
       name: DCJphTKqjG4
 
-- writer: 246447
+- writer: 226447
   date: 2021-10-07 01:52
   message: 인하벤처클럽 기술블로그를 오픈했습니다🤗
   media:
     - type: photo
       name: 20211007
   comment:
-      - writer: 246447
+      - writer: 226447
         date: 2021-10-07 01:52
         message: 지속적으로 관리될 수 있길..🙏
